@@ -1,2 +1,3 @@
 # Predicting_Housing_Prices_in_Melbourne
-Hey there! I'm sort of studying data science for two years and got into one self motivated task to predicting housing prices in Melbourne. Despite huge data I managed to extract useful or meaningful data and analyse it on my own. 
+
+Hey there! I've been studying data science for two years and recently took on a self-motivated task of predicting housing prices in Melbourne. Despite having a large dataset, I successfully extracted relevant and meaningful data and performed the analysis independently. 
